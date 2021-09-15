@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace OláWilliams
+namespace OlaWilliams
 {
     class Program
     {
